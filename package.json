@@ -1,0 +1,14 @@
+{
+  "name": "homebridge2mqtt",
+  "version": "1.0.0",
+  "description": "Export values from Homebridge to MQTT for other sources",
+  "main": "homebridge2mqtt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-mqtt": "^2.6.1"
+  }
+}
